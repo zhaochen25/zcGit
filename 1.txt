@@ -3,3 +3,5 @@ Jintian
 Yaojiayou
 
 今天也要好好学习！
+
+好好写代码
