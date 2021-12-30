@@ -1,2 +1,6 @@
 # zcGit
-master change
+<<<<<<< HEAD
+new change
+=======
+new change
+>>>>>>> new
