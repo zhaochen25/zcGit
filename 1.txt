@@ -1,3 +1,7 @@
 First test
+<<<<<<< HEAD
 master change
 2022-6-30 second test
+=======
+dev change
+>>>>>>> dev
